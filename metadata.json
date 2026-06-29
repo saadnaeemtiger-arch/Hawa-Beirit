@@ -1,0 +1,6 @@
+{
+  "name": "Hawa Beirut",
+  "description": "A premium, modern and elegant website for Hawa Beirut Restaurant & Cafe, featuring an authentic Lebanese menu, reservation booking system, interactive food filtering, and beautiful photo galleries.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
